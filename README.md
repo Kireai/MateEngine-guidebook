@@ -3,12 +3,15 @@
 
 ## 1，在哪里下载
 
-   1)直接在github里搜索mate-Engine可以先浏览到本体和之外的作品。作者与本体地址为
-   https://github.com/shinyflvre/Mate-Engine
-   ，有release包直接下载免安装使用。
+   1)免费版可以使用Steam付费版99%的重要功能。
 
    
-   2)在Steam平台上购买，用约26元（精准3.99美元）的超大杯奶茶支持原作者
+   直接在github里搜索mate-Engine可以先浏览到本体和之外的作品。作者与本体地址为
+   https://github.com/shinyflvre/Mate-Engine
+   ，有release包直接下载，解压后免安装使用。
+
+   
+   2)你是个大好人为富有仁，请去正宗的Steam平台上购买，用约26元（精准3.99美元）请原作者喝一杯超大杯奶茶！！
 
 
    
