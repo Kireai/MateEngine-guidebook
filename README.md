@@ -1,6 +1,8 @@
 MateEngine 桌宠使用指南
 1，在哪里下载
-   1)直接在github里搜索mate-Engine可以先浏览到本体和之外的作品。作者与本体地址为https://github.com/shinyflvre/Mate-Engine，有release包直接下载免安装使用。
+   1)直接在github里搜索mate-Engine可以先浏览到本体和之外的作品。作者与本体地址为
+   https://github.com/shinyflvre/Mate-Engine
+   ，有release包直接下载免安装使用。
 
    
    2)在Steam平台上购买，用26元（4美元）的超大杯奶茶支持原作者
