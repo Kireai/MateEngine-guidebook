@@ -41,6 +41,37 @@ MateEngine 桌宠使用指南
 这两个图标没有任何悬浮文字提示，它们的作用就是开关人角跳舞时的动态光效。如果你喜欢就打开。
 <img width="56" height="49" alt="image" src="https://github.com/user-attachments/assets/d245be2f-cb48-41b0-9801-29f40f5b5871" />
 这个是Discord海外主流的社群语音聊天软件，国内一般网友不会使用。
+<img width="60" height="64" alt="image" src="https://github.com/user-attachments/assets/0b7b012e-3060-4acd-9eb8-cb71fe4d1ed3" />
+这个看着像分享图标，其实是一个放大窗口的功能。有时候去点击会导致一些不必须的BUG，比如窗口放大到不可以恢复的大小。如果遇到这种意外，尝试右键取消它或在任务栏托盘里重启这个桌宠软件。
+<img width="62" height="50" alt="image" src="https://github.com/user-attachments/assets/80be51d8-466b-4e75-9106-fa2499734b86" />
+这个女性头部图标，功能是多开人物，你可以点开她再简单设置加载，多让几个女孩子出现在你的桌面上。
+<img width="639" height="698" alt="image" src="https://github.com/user-attachments/assets/a475a334-d91f-42f3-accd-62a9aa095f37" />
+最多可以有8个。
+
+
+
+
+<img width="48" height="60" alt="image" src="https://github.com/user-attachments/assets/1137b5b3-f62a-46cf-82da-c735c68c3d9d" />
+虫子图标，不知道有什么用，在我这里点击后毫无反应。如果你知道是什么，可以告诉我。
+。。。
+
+
+
+。。。
+<img width="55" height="42" alt="image" src="https://github.com/user-attachments/assets/14bb21e1-fafd-42b2-805c-791ca76c2300" />
+是关闭软件的按钮，如果你不小心点到它，就直接退出桌宠了，毫无提示的那种。
+。。。
+
+
+
+
+。。。
+<img width="59" height="61" alt="image" src="https://github.com/user-attachments/assets/702cdc79-9c32-41dc-a72d-803c587f8671" />
+这个包裹是Unity3D的标志。点开它，进入新窗口去加载模组。
+<img width="504" height="746" alt="image" src="https://github.com/user-attachments/assets/f95a8d90-2a06-4f7c-b8e4-19d0cd3b2e31" />
+图片里的初音里创意工坊里一个语音模组，下载后把它加载到这里。
+当你试图你的桌宠女孩里，她会发出初音未来的电子音“哒咩”。（然后就没了？真的没了）
+
 
 
 
