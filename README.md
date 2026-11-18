@@ -37,6 +37,8 @@ MateEngine 桌宠使用指南
     。
     
    这个界面里只要你认得字，90%的功能都能理解如何使用。
+   <img width="53" height="52" alt="image" src="https://github.com/user-attachments/assets/ccba9651-51e2-48a0-b8c4-03ba8c3dd8ae" />
+   月亮图标点击后进入简单的打光设置，自行摸索才有乐趣。
 <img width="86" height="47" alt="image" src="https://github.com/user-attachments/assets/89d87d90-a8bc-47a0-b3e7-7fe5146e81dc" />
 这两个图标没有任何悬浮文字提示，它们的作用就是开关人角跳舞时的动态光效。如果你喜欢就打开。
 <img width="56" height="49" alt="image" src="https://github.com/user-attachments/assets/d245be2f-cb48-41b0-9801-29f40f5b5871" />
@@ -69,11 +71,13 @@ MateEngine 桌宠使用指南
 <img width="59" height="61" alt="image" src="https://github.com/user-attachments/assets/702cdc79-9c32-41dc-a72d-803c587f8671" />
 这个包裹是Unity3D的标志。点开它，进入新窗口去加载模组。
 <img width="504" height="746" alt="image" src="https://github.com/user-attachments/assets/f95a8d90-2a06-4f7c-b8e4-19d0cd3b2e31" />
-图片里的初音里创意工坊里一个语音模组，下载后把它加载到这里。
-当你试图你的桌宠女孩里，她会发出初音未来的电子音“哒咩”。（然后就没了？真的没了）
+上图里的初音未来是创意工坊里一个语音模组，下载后把它加载到这里。
+当你试图用鼠标点击你的桌宠女孩时，她会发出初音未来的电子音“哒咩”。（然后就没了？真的没了）
 
 
-
+附：如果你点击电脑键盘的F8键，会弹出一个高级的设置窗口。再点一次F8关闭窗口。
+<img width="705" height="601" alt="image" src="https://github.com/user-attachments/assets/0b3a6b15-a09a-4112-b630-d6037645090b" />
+至于这个窗口如何使用，我暂时没有找到相关的说明，帮不到大家了。唯一知道的就是，它和某些MOD插件存在关系。
 
 
    
