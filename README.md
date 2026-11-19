@@ -54,7 +54,12 @@
    这个界面里只要你认得字，90%的功能都能理解如何使用。
    
    模型加载支持.vrm和.md。如果你不了解这两个文件格式，就去问豆包。也可以去B站搜一搜，这是另外学习的事了。
-   
+
+   其中最有趣的功能就是随音乐播放跳舞，这需要进行设置。在音乐的设置里，mateEngine会自动识别你打开的能播放音乐的软件（浏览器也不放过），你只需要手动添加即可。
+   <img width="475" height="196" alt="image" src="https://github.com/user-attachments/assets/ed093f78-7360-4ee5-ae45-aac4ca018bd5" />
+
+   <img width="500" height="165" alt="image" src="https://github.com/user-attachments/assets/69ccf075-8e63-472f-b833-4a556976b3fb" />
+
    模型按钮的交互里唯二需要了解的就是如何移除模型（这里移除模型不会删除本地文件）以及手动勾选的NSFW提示。
 <img width="492" height="742" alt="image" src="https://github.com/user-attachments/assets/c79da8ab-ce33-4c01-88e8-748e8414ecd0" />
 
